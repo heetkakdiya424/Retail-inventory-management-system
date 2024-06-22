@@ -1,0 +1,20 @@
+login
+signup
+dashboard
+profile
+change password
+ExpiryDate
+StockOut
+Add-category
+manage-category
+sub-manage-category
+add-company
+manage-company
+add-product
+bulk-add-product 
+manage-product
+shopping-cart
+invoice
+manage-invoice
+sales-report
+manage-sales-report
